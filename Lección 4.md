@@ -1,0 +1,17 @@
+# Temas
+- Random
+- Módulos
+- Random Module
+	- `random.randint(1, 10)`
+	- `random.random()`
+- Reto: Como crear un numero decimal entre 0 y 5?
+- [[Lección 4 - Ejercicio 1]]
+- Listas
+	- `.append()`
+	- Reto: `.extend()`
+	- [5. Data Structures — Python 3.12.2 documentation](https://docs.python.org/3/tutorial/datastructures.html)
+- [[Lección 4 - Ejercicio 2]]
+- IndexError
+- Listas Anidadas
+- [[Lección 4 - Ejercicio 3]]
+- [[Lección 4 - Proyecto]]

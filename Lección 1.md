@@ -1,0 +1,19 @@
+# Temas
+- Introducción a Replit
+- Comentarios
+- Que es un String?
+- Explicar print()
+- [[Lección 1 - Ejercicio 1]]
+- Explicar que es `\n` en un string
+- Concatenar strings
+- Explicar la identation
+- Code Intelligence
+- [[Lección 1 - Ejercicio 2]]
+- Explicar input()
+- Explicar la siguiente linea de código
+	- `print("Hola" + input("Cual es tu nombre?"))`
+- [[Lección 1 - Ejercicio 3]]
+- Variables
+- [[Lección 1 - Ejercicio 4]]
+- Nombre de las variables
+- [[Lección 1 - Proyecto]]

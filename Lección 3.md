@@ -1,0 +1,28 @@
+# Temas
+- `if/else` statement.
+- Operadores de Comparación.
+	- `>`
+	- `<`
+	- `>=`
+	- `<=`
+	- `==`
+	- `!=`
+- Ifs anidados.
+- [[Rollercoaster Program Part 1]]
+- Operador `%`.
+- [[Lección 3 - Ejercicio 1]]
+- Diagramas de Flujo.
+- `elif`.
+- [[Rollercoaster Program Part 2]]
+- [[Lección 3 - Ejercicio 2]]
+- [[Lección 3 - Ejercicio 3]]
+- [[Lección 3 - Ejercicio 4]]
+- Operadores lógicos.
+	- and
+	- or
+- `.lower()`
+- `.count()`
+- [[Lección 3 - Ejercicio 5]]
+- [https://ascii.co.uk/art/armadillo](https://ascii.co.uk/art/armadillo)  
+- [https://ascii.co.uk/animated/](https://ascii.co.uk/animated/)
+- [[Lección 3 - Proyecto]]

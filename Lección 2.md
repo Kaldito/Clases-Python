@@ -1,0 +1,40 @@
+# Temas
+- Tipos de Datos Primitivos.
+	- String.
+	- Integer.
+	- Float.
+	- Boolean.
+- Subscript.
+	- `print("Hello"[0])`
+- Explicar que los programadores empiezan a contar desde el 0.
+- [[Lección 2 - Reto 1]]
+- Explicar la diferencia entre suma y concatenación.
+- Se pueden separar los números con _ para su mejor visualización.
+	- **Ejemplo:** `print(201_300)`.
+	- **Nota:** Solo afecta para la visualización del código.
+- Explicación de Float.
+- Explicación de Boolean.
+- TypeError.
+- Hacer la siguiente operación y comprobarla en código: `3 * 3 + 3 / 3 - 3`.
+- Explicar la función `type()`.
+- Explicar la función `str()`.
+- Reto: `print(70 + float('100.5'))`.
+- Reto: `print(str(70) + str(100))`.
+- [[Lección 2 - Ejercicio 1]].
+- División en python.
+	- La división retorna un float siempre.
+- Potencia en python (`**`).
+- [[Lección 2 - Ejercicio 2]]
+- Explicar función `round()`.
+- Explicar `//`.
+	- Redondea hacia abajo una división.
+- Explicar los operadores especiales:
+	- `+=`
+	- `-=`
+	- `*=`
+	- `/=`
+- Explicar los fStrings.
+- Explicar función `format()`.
+	- [Python String format() Method](https://www.w3schools.com/python/ref_string_format.asp)
+- [[Lección 2 - Ejercicio 3]]
+- [[Lección 2 - Proyecto]]
