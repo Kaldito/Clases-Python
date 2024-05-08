@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "be61a3810832b946",
+        "id": "18b078d095ece325",
         "type": "tabs",
         "children": [
           {
-            "id": "59f13d2ae9e65195",
+            "id": "071ff5ffcd75e927",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proyectos/Lección 3 - Proyecto.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyectos/Lección 3 - Proyecto.md",
+                "file": "Proyectos/Leccion 17 - Proyecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proyectos/Lección 3 - Proyecto.md",
+                "file": "Proyectos/Leccion 17 - Proyecto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proyectos/Lección 3 - Proyecto.md"
+                "file": "Proyectos/Leccion 17 - Proyecto.md"
               }
             }
           }
@@ -146,8 +142,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59f13d2ae9e65195",
+  "active": "85f3a214fe0f546a",
   "lastOpenFiles": [
+    "Leccion 17.md",
+    "Proyectos/Leccion 17 - Proyecto.md",
+    "Ejercicios/Leccion 17 - Main.md",
+    "Proyectos/Lección 3 - Proyecto.md",
     "Lección 3.md",
     "Ejercicios/Lección 3 - Ejercicio 5.md",
     "Ejercicios/Lección 3 - Ejercicio 4.md",
@@ -164,10 +164,8 @@
     "Ejercicios/Lección 4 - Ejercicio 2.md",
     "INICIO.md",
     "Imagenes/Pasted image 20240330193219.png",
-    "Untitled.md",
     "Lección 2.md",
     "Proyectos/Lección 2 - Proyecto.md",
-    "Proyectos/Lección 3 - Proyecto.md",
     "Imagenes/WhatsApp Image 2024-03-28 at 12.21.17 PM.jpeg",
     "Ejercicios/Lección 2 - Ejercicio 1.md",
     "Lección 1.md",
@@ -179,7 +177,6 @@
     "Imagenes/bmi-calculator-en-scaled.jpg",
     "Imagenes",
     "Ejercicios/Lección 1 - Ejercicio 1.md",
-    "Ejercicios/Lección 1 - Ejercicio 2.md",
     "Ejercicios"
   ]
 }
