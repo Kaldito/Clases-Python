@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ejercicios/Leccion 18 - Main.md",
+                "file": "Proyectos/Leccion 18 - Proyecto.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ejercicios/Leccion 18 - Main.md",
+                "file": "Proyectos/Leccion 18 - Proyecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ejercicios/Leccion 18 - Main.md",
+                "file": "Proyectos/Leccion 18 - Proyecto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ejercicios/Leccion 18 - Main.md"
+                "file": "Proyectos/Leccion 18 - Proyecto.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "59f13d2ae9e65195",
   "lastOpenFiles": [
     "Lección 18.md",
+    "Proyectos/Leccion 18 - Proyecto.md",
     "Ejercicios/Leccion 18 - Main.md",
     "Imagenes/Pasted image 20240510114511.png",
     "Imagenes/Pasted image 20240510112042.png",
